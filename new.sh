@@ -6,5 +6,6 @@ this is third line
 
 how is training going on
 
-I am updating file to create a conflict in git
+I am pdating file to create a conflict in git
+echo "Hello Team"
 
