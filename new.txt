@@ -1,6 +1,7 @@
 This is my new fle
 i created for the devops training
 
+
 this is my first file
 this is second line of cod
 this is third line
@@ -9,4 +10,7 @@ how is training going on
 
 
 Updating file to crteate conflict
+
+
+this is for cherry-pick ex
 
