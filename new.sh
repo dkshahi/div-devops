@@ -1,12 +1,14 @@
-echo "This is my first file for shell script"
+#!/bin/bash
+for a in 1 2 3
+do
+	if [ $a == 5 ]
+	then
+		sleep 10
+	fi
+		
+	echo "Iteration no $a"
+done
 
-this is my first file
-this is second line of cod
-this is third line
-
-how is training going on
-
-I am pdating file to create a conflict in git
 echo "Hello Team"
 
 
